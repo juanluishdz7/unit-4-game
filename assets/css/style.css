@@ -28,7 +28,7 @@ body {
 .randomNum {
   background: green;
   width: 200px;
-  height: 80px;
+  height: 70px;
   font-size: 30px;
   margin-bottom: 5px;
   float: left;
@@ -37,7 +37,7 @@ body {
   display: inline-block;
   background: turquoise;
   width: 100px;
-  height: 80px;
+  height: 70px;
   font-size: 15px;
   margin-bottom: 5px;
   margin-left: 5px;
